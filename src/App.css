@@ -1,0 +1,48 @@
+
+.logo{
+  height:60px;
+  width:60px;
+  object-fit: cover;
+  border-radius: 40%;
+}
+
+.Intro{
+  background: radial-gradient( #4A99D3 50px, white) ;
+}
+.workingProcess{
+  background-color: #DAEAF6;
+}
+
+/* .Process-heading{
+  color: #4A99D3;
+} */
+.email-form{
+  box-shadow: inset 0px 1px 4px 0px rgba(255, 255, 255, 0.1);
+}
+
+nav a{
+  text-decoration: none;
+}
+.footer-section{
+  background-color: #f5f5f5;
+  color: #343a40;
+  padding: 40px 0px;
+}
+.Process-heading{
+  text-align: center;
+}
+.Navbar-heading li{
+  list-style-type: none;
+}
+.Navbar-heading li a{
+  color:black;
+}
+.Navbar-heading li a:active{
+  color:#4A99D3;
+}
+.logo-nav{
+  margin-right: 50%;
+}
+.email a, .phone a{
+  text-decoration: none;
+}
